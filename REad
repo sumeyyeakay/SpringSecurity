@@ -1,0 +1,5 @@
+application.pro dosyasindan:
+
+spring.security.user.name=sum
+spring.security.user.password=1234
+
