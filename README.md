@@ -13,3 +13,9 @@
  https://docs.spring.io/spring-security/site/docs/4.0.x/reference/html/appendix-schema.html
  
  ![image](https://user-images.githubusercontent.com/34593997/88672117-c5a66900-d0ef-11ea-8fe4-eaba4dbbfdc3.jpeg)
+
+## Spring Security JPA (MySQL)
+
+![image](https://user-images.githubusercontent.com/34593997/88734066-979d4500-d140-11ea-8e33-24650f520bc9.jpeg)
+
+![image](https://user-images.githubusercontent.com/34593997/88734199-a5eb6100-d140-11ea-82f5-0edf423e80b6.jpeg)
