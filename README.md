@@ -12,4 +12,4 @@
 - Spring Security Database Schema her database icin default olarak tanimlanan schemalara burdan bakabilirsiniz.
  https://docs.spring.io/spring-security/site/docs/4.0.x/reference/html/appendix-schema.html
  
- ![image](https://user-images.githubusercontent.com/34593997/88671890-80823700-d0ef-11ea-96b2-9ddadda2cd82.jpeg)
+ ![image](https://user-images.githubusercontent.com/34593997/88672117-c5a66900-d0ef-11ea-8fe4-eaba4dbbfdc3.jpeg)
